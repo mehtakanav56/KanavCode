@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <nav className='Navbar'>
     <ul>
-        <li>{"Code{J}"}</li>
+        <li>{"Code{Kanav-MMU}"}</li>
     </ul>
     </nav>
   )
